@@ -182,8 +182,6 @@ print(f"Densidade: {densidade:.10f}")
     Densidade: 0.0001778949
 
 
-**Interpretação contextual**
-
 Este valor extremamente baixo (≈ 0,00018) indica um grafo esparso.
 Isso é típico de redes viárias urbanas, onde cada nó (interseção)
 se conecta a apenas alguns vizinhos, formando uma malha eficiente
