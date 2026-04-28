@@ -646,6 +646,8 @@ Principais descobertas:
 
 **Referências** 
 
-Danchev, V. (2021). Reproducible Data Science with Python<br>
-NetworkX Documentation: https://networkx.org/<br>
-OSMnx Documentation: https://osmnx.readthedocs.io/
+Boeing, G. (2025). Modeling and Analyzing Urban Networks and Amenities with OSMnx. Geographical Analysis, published online ahead of print. doi:10.1111/gean.70009
+
+Danchev, V. (2021). Reproducible Data Science with Python. Creative Commons Attribution-ShareAlike 4.0 International License. Disponível em: https://valdanchev.github.io/reproducible-data-science-python/.
+
+Hagberg, A. A., Schult, D. A., Swart, P. J. (2008). Exploring network structure, dynamics, and function using NetworkX, in Proceedings of the 7th Python in Science Conference (SciPy2008), Gäel Varoquaux, Travis Vaught, and Jarrod Millman (Eds), (Pasadena, CA USA), pp. 11–15, Aug 2008.
