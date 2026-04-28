@@ -585,6 +585,7 @@ print("Abra este arquivo no navegador para visualizar interativamente.")
 # Exibir no notebook (se estiver em ambiente Jupyter)
 display(mapa)
 ```
+![](grafo_mapa_bares.png)
 
 ### Caminhos mínimos entre bares (exemplo conceitual)
 
