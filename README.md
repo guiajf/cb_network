@@ -45,7 +45,7 @@ print(f"Folium version: {folium.__version__}")
     Folium version: 0.18.0
 
 
-## Carregamos e inspecionamos os dados dos bares
+## Carregamos e inspecionamos os dados
 
 
 **Carregamos a lista de bares**
