@@ -127,7 +127,7 @@ print(f"\n✅ Grafo criado com sucesso!")
     ✅ Grafo criado com sucesso!
 
 
-### Estatísticas básicas do grafo
+### Extraímos as estatísticas básicas do grafo
 
 
 ```python
